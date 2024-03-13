@@ -1,0 +1,70 @@
+
+body 
+{
+    background-color: #57342b;
+
+}
+
+p.titlu {
+    text-align: center;
+    color: wheat;
+    margin-top: 80px;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-color: #fea99c;
+    border-radius: 10px;
+}
+
+p.meniuP
+{
+    text-align: center;
+    color: wheat;
+    margin-top: 20px;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.meniu_ramen{
+    margin-top: 70px;
+    text-align: center;
+    color: wheat;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 70px;
+    background-color: #ffcfac; 
+    border-radius:20px;
+    padding-top: 25px; 
+    color: #57342b;
+    font-size: 45px; 
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 10px; 
+    width: 100%;
+    border: 2px solid #fea99c; 
+    border-radius: 10px; 
+    overflow: hidden; 
+}
+td, th {
+    padding: 10px;
+    border-right: 2px solid #fea99c; 
+}
+
+td:last-child, th:last-child {
+    border-right: none;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+th {
+    font-size: xx-large;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+}
